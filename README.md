@@ -30,12 +30,10 @@ Stay tuned! We are working on releasing the code... 🏗️ 🚧 🔨
 ## Misc.
 If you want to cite our work, please use the following bib entry:
 ```
-@misc{cao2023guide3d,
-      title={Guide3D: Create 3D Avatars from Text and Image Guidance}, 
-      author={Yukang Cao and Yan-Pei Cao and Kai Han and Ying Shan and Kwan-Yee K. Wong},
-      year={2023},
-      eprint={2308.09705},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{cao2023guide3d,
+  title={Guide3D: Create 3D Avatars from Text and Image Guidance},
+  author={Cao, Yukang and Cao, Yan-Pei and Han, Kai and Shan, Ying and Wong, Kwan-Yee K},
+  journal={arXiv preprint arXiv:2308.09705},
+  year={2023}
 }
 ```
